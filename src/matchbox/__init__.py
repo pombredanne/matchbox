@@ -16,10 +16,9 @@
 # You should have received a copy of the GNU Lesser General Public License
 # along with matchbox.  If not, see <http://www.gnu.org/licenses/>.
 """Main matchbox module."""
-from __future__ import absolute_import
-from matchbox.matchbox import MatchBox
-from matchbox.multimatchbox import MultiMatchBox
+from matchbox.box import MatchBox
+from matchbox.index import MatchIndex
 
-__version__ = '0.0.0'
+__version__ = '0.3.0'
 
-__all__ = ('MatchBox', 'MultiMatchBox')
+__all__ = ('MatchBox', 'MatchIndex')

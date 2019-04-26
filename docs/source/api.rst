@@ -1,9 +1,8 @@
 Api
 ===
 
-.. automodule:: matchbox.matchbox
+.. automodule:: matchbox.index
     :private-members:
 
-
-.. automodule:: matchbox.multimatchbox
+.. automodule:: matchbox.box
     :private-members:

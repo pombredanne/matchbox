@@ -6,9 +6,11 @@ Contents
 .. toctree::
    :maxdepth: 2
 
+   glossary
    rationale
    usage
    api
+   contributing
    changelog
 
 
